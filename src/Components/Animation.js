@@ -23,7 +23,7 @@ function Animation() {
         <span>E</span>
         <span>
           <b>
-            <i>BY HUMAN</i>
+            <i>BY RODIN</i>
           </b>
         </span>
       </h5>
